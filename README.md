@@ -1,22 +1,20 @@
-# Excel_Project
+# SALES DASHBOARD WITH EXCEL
 
-# HR ANAYLTICS DASHBOARD
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/aer096d3vD4rYVsgNn/giphy.gif"/>
 
 **FEATURES**
-- Analyzed the behavior of all employees in the company.
-
-- KPIs used Total  Employees, Active Employees, Average stay duration, Active Remote workers, Average Age.
-- Compared parameter such as  yearly Total Employee vs Active Employee, Remote vs Headquarter Employee.
-- Visualized meaningful insights in interactive dashboard with job title and department as filter
+- Analyzed the  teamwise Sales data of the company.
+- KPIs used Gross sales, Discounts, Net sales, Gross Margins and Cost.
+- Compared variations in Gross sales, Discounts, Net sales, Gross Margins Discount %.
+- Visualized meaningful insights in interactive dashboard with Year, Month, Team as filters
 
 **TECH STACK**
-- Tableau
 - Excel
 
-![image](https://user-images.githubusercontent.com/106806098/188117880-a4f98663-ed2d-48ed-9377-ba2aeb6d4bd4.png)
+![image](https://user-images.githubusercontent.com/106806098/188122547-f31e1a85-3689-4806-a7bb-b96f9f53f8c6.png)
 
 
-**TABLEAU LINK**
-[https://public.tableau.com/views/HRAnalyticsProjectDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+
+![image](https://user-images.githubusercontent.com/106806098/188122611-508848dc-5c60-4425-b67c-2081b3403ee5.png)
+
+
